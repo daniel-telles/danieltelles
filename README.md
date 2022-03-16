@@ -1,4 +1,4 @@
-# Olá! me chamo Daniel Telles 👋
+# Olá! Me chamo Daniel Telles 👋
 
 - 📱 Atualmente estou estudando Flutter
 - ⚛ Faço graduação em Física
